@@ -1,1 +1,1 @@
-"#OCD-Support" 
+Currently under development utilizing django and React. Plan on using either bootstrap or material-ui for the interface. When performing therapy for ERP, I had to rate certain things that caused me anxiety on a scale from 1-10, and then tackle the more anxiety-inducing things first through certain exposure methods. This program is meant to help me and others with obsesive compulsive disorder perform certain exposures.
